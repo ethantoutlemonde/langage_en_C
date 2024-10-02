@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include "c_files/import.c"
 
 int main() {
-    printf("Hello, World!\n");
+    salam();
     return 0;
 }
