@@ -1,4 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/lanage_en_C.dir/c_files/lexer.c.obj"
+  "CMakeFiles/lanage_en_C.dir/c_files/lexer.c.obj.d"
+  "CMakeFiles/lanage_en_C.dir/c_files/token.c.obj"
+  "CMakeFiles/lanage_en_C.dir/c_files/token.c.obj.d"
   "CMakeFiles/lanage_en_C.dir/main.c.obj"
   "CMakeFiles/lanage_en_C.dir/main.c.obj.d"
   "lanage_en_C.exe"

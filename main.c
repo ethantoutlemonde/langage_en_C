@@ -1,7 +1,9 @@
 #include <stdio.h>
-#include "c_files/import.c"
+#include <stdlib.h>
+#include "c_files/lexer.h"
+
 
 int main() {
-    salam();
+    interpret("salut les amis");
     return 0;
 }

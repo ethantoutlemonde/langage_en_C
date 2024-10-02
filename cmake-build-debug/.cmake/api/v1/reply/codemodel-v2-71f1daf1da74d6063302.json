@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "lanage_en_C::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-lanage_en_C-Debug-2e7204350c6b09a5e2e3.json",
+					"jsonFile" : "target-lanage_en_C-Debug-511e87fb32812e9fb308.json",
 					"name" : "lanage_en_C",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/ethan/school/2024-2025/c/langage_en_C/cmake-build-debug",
-		"source" : "C:/Users/ethan/school/2024-2025/c/langage_en_C"
+		"build" : "C:/Users/yohan/Documents/formations/Programmation C/Projet de soutenance/interpreteur/langage_en_C/cmake-build-debug",
+		"source" : "C:/Users/yohan/Documents/formations/Programmation C/Projet de soutenance/interpreteur/langage_en_C"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 7
 	}
 }

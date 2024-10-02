@@ -7,8 +7,9 @@ typedef enum{
     TOKEN_LPAREN,
     TOKEN_RPAREN,
     TOKEN_EOF,
-} TokenType;
+} tokenType;
 
-void salam(){
-    printf("salam les royas");
-};
+typedef struct{
+    tokenType type;
+    char* value;
+} token;
