@@ -5,5 +5,4 @@
 #ifndef LEXER_H
 #define LEXER_H
 
-void interpret(char* str);
 #endif //LEXER_H

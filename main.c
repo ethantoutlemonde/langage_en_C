@@ -4,6 +4,6 @@
 
 
 int main() {
-    interpret("salut les amis");
+
     return 0;
 }
